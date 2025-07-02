@@ -11,13 +11,13 @@ Cette classe PHP permet de se connecter à un serveur <strong>FiveM</strong> ou 
   <li>Incluez-le dans votre script PHP :</li>
 </ol>
 
-<pre><code>require_once 'RconFiveM.php';
+<pre><code>require_once 'Class_rconFiveM.php';
 </code></pre>
 
 <h2>📘 Exemple d'utilisation</h2>
 
 <pre><code>&lt;?php
-require_once 'RconFiveM.php';
+require_once 'Class_rconFiveM.php';
 
 try {
     // Connexion au serveur RCON
